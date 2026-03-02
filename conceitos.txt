@@ -1,0 +1,5 @@
+A) URL: é o localizador e identificador do site
+B) HTTP:  é um protocolo de comunicação utilizado para a transferência de informações
+C) TCP: é o protocolo responsável por entregar os pacotes do site de forma segura e confiável
+D) IP: é o protocolo que atribui um endereço exclusivo conectado a internet
+E) DNS: é responsável por converter nome de site em endereço de ip
